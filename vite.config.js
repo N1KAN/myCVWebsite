@@ -7,7 +7,5 @@ export default defineConfig({
   build: {
     sourcemap: true,  // Für den Produktionsmodus
   },
-  server: {
-    sourcemap: true,  // Für den Entwicklungsmodus
-  }
+
 })
