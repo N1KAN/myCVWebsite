@@ -3,6 +3,7 @@ import Header from '../komponenten/Header';
 import Button from "../komponenten/Button";
 import '../css/Kontakt.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
+
 export default function Kontakt() {
     return (
         <div>
